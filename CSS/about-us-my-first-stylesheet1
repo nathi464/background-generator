@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Us</title>
+<link type="text/css" rel="stylesheet" href="css/my-first-stylesheet.css"/>
+</head>
+<body>
+<h1>About Us</h1>
+<p><img src="images/JazzMasters.jpg" alt="Picture of the JazzMasters"/></p>
+<p>We are the JazzMasters.</p>
+<p>Our names are KingNathi, NkosazanaMiso, NkosanaMlu and NkosikaziChris.</p>
+</body>
+</html>
